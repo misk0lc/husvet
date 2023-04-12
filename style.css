@@ -1,0 +1,32 @@
+h1, h2, li {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(252, 106, 179)
+  }
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(28, 124, 233)
+    
+  }
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    list-style-type: none;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(127, 194, 126)
+}
+
+body {
+    background-image: url(eggs.jpg);
+    background-size:cover
+}
